@@ -1,6 +1,6 @@
 # Lead tech - TP2
 
-## Convention de coding
+## 1. Convention de coding
 
 * **Nommage**
 
@@ -80,4 +80,4 @@ if(user.isAdmin()) {
 
 
 
-## Choix d'infrastructure
+## 2. Choix d'infrastructure
